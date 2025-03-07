@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS campaigns (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  title TEXT NOT NULL,
+  landing_page_url TEXT NOT NULL,
+  is_running BOOLEAN NOT NULL DEFAULT 0
+);
