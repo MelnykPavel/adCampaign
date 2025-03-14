@@ -19,7 +19,7 @@ Follow these instructions to set up and run the application locally.
 
 ## Prerequisites
 
-- Node.js (v18 or later)
+- Node.js (v22 or later)
 - npm or yarn
 
 ## Installation
